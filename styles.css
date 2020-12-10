@@ -1,0 +1,44 @@
+<style>
+
+:root {
+	--color-bg-default: #0E0E0E !important;
+	--color-text-default: #F1F1F1 !important;
+    --color-text-default-light: #505154; !important;
+    --color-ui-hover-bg: #505154; !important;
+}
+
+.notion-divider {
+    border-bottom: 1px solid #505154 !important;
+}
+
+.notion-collection-table__head-cell {
+   color: #F1F1F1 !important;
+}
+
+table, th, td {
+  border: 1px solid #505154 !important;
+}
+
+body {
+	font-family: -apple-system, BlinkMacSystemFont, "myriad-pro", sans-serif !important;
+}
+
+p {
+	font-size: 18px !important;
+}
+
+h1 {
+	font-size: 4em !important;
+	font-weight: 700 !important;
+	letter-spacing: -.015em !important;
+}
+
+h1.notion-heading .notion-semantic-string {
+	line-height: 1.1 !important;
+}
+
+h3 {
+	font-size:24px !important;
+}
+
+</style>
